@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋, my name is Ritesh Jaiswal
+-------------------------------------------
+-I am from Maharashtra,India
+-My interest is in Web Development
+
+-🌱 I’m currently learning web development skills.
+
+-📫 How to reach me: connect.riteshjaiswal@gmail.com
 
 <!--
 **riteshjaiswal3/riteshjaiswal3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
